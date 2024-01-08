@@ -1,0 +1,10 @@
+C:\Users\anfaa\OneDrive\Desktop\NEXT\NRP\backend\target\debug\deps\libfinl_unicode-141cf3cb21eeef95.rmeta: C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+C:\Users\anfaa\OneDrive\Desktop\NEXT\NRP\backend\target\debug\deps\finl_unicode-141cf3cb21eeef95.d: C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs:
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs:
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs:
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs:
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs:
+C:\Users\anfaa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs:
